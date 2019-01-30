@@ -1,0 +1,278 @@
+"<h1>&nbsp;</h1>
+<a href=""https://www.iaders.com/lywjzx/friends/4963/attachment/cropped-cropped-f9c14d35ed9bfd4d-1-%e5%89%af%e6%9c%ac-1-png/#main"" rel=""attachment wp-att-2522""><img class=""aligncenter size-full wp-image-2522"" src=""https://www.iaders.com/wp-content/uploads/2017/11/cropped-cropped-f9c14d35ed9bfd4d-1-副本-1.png"" alt="""" width=""522"" height=""120""></a>
+<h1>&nbsp;</h1>
+<!--more-->
+<h1>一. &nbsp;文首</h1>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;大家好, 这次科普的内容是有关强制医疗的法律相关知识和概念.</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;本科普涉及的法律有:</p>
+
+<ol>
+ 	<li style=""font-weight: 400;"">中华人民共和国刑法 (科普中简称刑法)</li>
+ 	<li style=""font-weight: 400;"">中华人民共和国刑事诉讼法 (科普中简称刑讼法, 新刑讼法)</li>
+ 	<li style=""font-weight: 400;"">中华人民共和国人民警察法 (科普中简称人民警察法)</li>
+ 	<li style=""font-weight: 400;"">中华人民共和国治安管理处罚法 (科普中简称治安管理处罚法)</li>
+ 	<li style=""font-weight: 400;"">中华人民共和国行政处罚法 (科普中简称行政处罚法)</li>
+ 	<li style=""font-weight: 400;"">中华人民共和国精神卫生法 (科普中简称精神卫生法)</li>
+ 	<li style=""font-weight: 400;"">中华人民共和国宪法 (科普中简称宪法)</li>
+ 	<li style=""font-weight: 400;"">中华人民共和国行政诉讼法&nbsp;(科普中简称行政诉讼法)</li>
+ 	<li style=""font-weight: 400;"">中华人民共和国民事诉讼法&nbsp;(科普中简称民事诉讼法)</li>
+</ol>
+<p style=""font-weight: 400;"">本科普涉及的规定与司法解释有:</p>
+
+<ol>
+ 	<li style=""font-weight: 400;"">最高人民法院关于适用中华人民共和国刑事诉讼法的解释 (科普中简称高法解释)</li>
+ 	<li style=""font-weight: 400;"">公安机关办理刑事案件程序规定 (科普中简称规定)</li>
+</ol>
+<p style=""font-weight: 400;"">本科普涉及的其他概念有:</p>
+
+<ol>
+ 	<li style=""font-weight: 400;"">从旧兼从轻原则</li>
+ 	<li style=""font-weight: 400;"">法无禁止即可为</li>
+ 	<li style=""font-weight: 400;"">民事行为能力</li>
+ 	<li style=""font-weight: 400;"">监护人</li>
+</ol>
+<p style=""font-weight: 400;"">&nbsp;</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;Up主不是法律专业的, 但是已经尽了最大努力去了解了科普中所涉及的知识. 虽说是所谓 “ 科普” , 但不能排除有遗漏或者谬误的可能, 如果确实有, 希望观众能多多指出更正, 谢谢.</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;本科普主要针对的是 &nbsp;“强制医疗” &nbsp;, 以及围绕这个话题衍生出的一些必要的概念. 由于是法律相关的科普, 不是什么慷慨激昂的声讨大作, 因此全程会显得枯燥无味, 不奢求什么曝光量了.</p>
+<p style=""font-weight: 400;"">&nbsp;</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;为了一些没有多少时间的观众, 这里先放出科普的结论:</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;无论对于何种病人, 法律根本没有给予监护人和医生强制医疗的权利. 哪怕一个沉迷网络者任性使气打爹骂娘偷摸抢骗不读书不工作不上进, 或者做了其他在温室里生活的不懂社会的圣母所想象不出的恶劣行为, 又或者 &nbsp;“并发了精神分裂等精神障碍” , 又或者经过 “可能有点过激的” 治疗后 “至少有了成效” 甚至 “走向人生巅峰”, 家长监护人或医生都无权决定一个人是否需要强制医疗, 更不能将其强行抓捕, 送达, 拘束. 哪怕这个人是未成年人也是如此. 相反, 这种强制医疗的行为是触犯法律的. 其他相关, 请看有关 “法无禁止即可为” 科普后的内容.</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;本科普中仅介绍相关知识, 不对其他社会热点作什么评论.</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;有关强制医疗, 首当其冲的就是在1997年添加的刑法第十八条.</p>
+
+<h1>二. &nbsp;适用伤及他人触及刑法但无法负刑事责任的患者</h1>
+<p style=""font-weight: 400;""><strong>刑法第十八条</strong></p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;精神病人在不能辨认或者不能控制自己行为的时候造成危害结果, 经法定程序鉴定确认的, 不负刑事责任, 但是应当责令他的家属或者监护人严加看管和医疗；在必要的时候, 由政府强制医疗.</p>
+<p style=""font-weight: 400;""><strong>刑诉法二百八十四条</strong></p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;实施暴力行为, 危害公共安全或者严重危害公民人身安全, 经法定程序鉴定依法不负刑事责任的精神病人, 有继续危害社会可能的, 可以予以强制医疗. 强制医疗的决定机关为人民法院, 执行机关为公安机关. 具体而言, 人民法院负责强制医疗决定书的作出, 公安机关负责强制执行.</p>
+<p style=""font-weight: 400;""><strong>刑诉法第二百八十五条</strong></p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;根据本章规定对精神病人强制医疗的, 由人民法院决定.</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;公安机关发现精神病人符合强制医疗条件的, 应当写出强制医疗意见书, 移送人民检察院. 对于公安机关移送的或者在审查起诉过程中发现的精神病人符合强制医疗条件的, 人民检察院应当向人民法院提出强制医疗的申请. 人民法院在审理案件过程中发现被告人符合强制医疗条件的, 可以作出强制医疗的决定.</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;对实施暴力行为的精神病人, 在人民法院决定强制医疗前, 公安机关可以采取临时的保护性约束措施.</p>
+<p style=""font-weight: 400;""><strong>刑诉法第二百八十六条</strong></p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;人民法院受理强制医疗的申请后, 应当组成合议庭进行审理.</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;人民法院审理强制医疗案件, 应当通知被申请人或者被告人的法定代理人到场. 被申请人或者被告人没有委托诉讼代理人的, 人民法院应当通知法律援助机构指派律师为其提供法律帮助.</p>
+<p style=""font-weight: 400;""><strong>刑诉法第二百八十七条</strong></p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;人民法院经审理, 对于被申请人或者被告人符合强制医疗条件的, 应当在一个月以内作出强制医疗的决定.</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;被决定强制医疗的人, 被害人及其法定代理人, 近亲属对强制医疗决定不服的, 可以向上一级人民法院申请复议.</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;刑法十八条早在1997年就规定了由政府进行强制医疗. 可惜的是, 由于刑法实施时旧刑诉法没有强制医疗程序,&nbsp; “在必要的时候” 也无明确标准,公安机关当时只能依法责令其家属和监护人严加看管和医疗. 而在2012年刑诉法增加新的章节, 其二百八十四条和二百八十五条明确了强制医疗是司法职权, 且法院拥有自由裁量权, 防止权力被滥用, 意在防止 &nbsp;“被精神病” &nbsp;的情况发生, 保护公民的合法权利. 可以说, 在新刑诉法问世以前, 强制医疗行为完全不需要经过司法审查, 可以由医生或监护人说了算.</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;值得注意的是,&nbsp; “高法解释” 将 “刑事诉讼法” 中规定的任意性改变为强制性, 如,&nbsp; “高法解释” 要求法院无论对于检察院启动的强制医疗, 还是法院在庭审阶段依职权主动启动的强制医疗, 经审查, 只要符合 “刑事诉讼法” 第284条规定的条件, 都 “应当” 作出强制医疗决定. 可以预见, 在实践中,&nbsp; “高法解释” 设立的强制性原则, 对各级人民法院的影响会大于 “刑事诉讼法” 的规定.</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;高法解释中强制医疗决定由公安机关执行, 但 “公安机关办理刑事案件程序规定” 中却无相呼应的内容, 唯一有关的是该规定第333条, 针对的却是在人民法院作出强制医疗决定前的情形. 对于人民法院决定强制医疗后, 如何执行并无明确规定.&nbsp; “精神卫生法” 中也未就司法机关决定的强制医疗的救治机构, 经费等做出呼应, 直接影响到法律规定的落实.</p>
+<p style=""font-weight: 400;""><strong>高法解释第五百三十一条</strong></p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;对申请强制医疗的案件, 人民法院审理后, 应当按照下列情形分别处理：</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;(一) 符合刑事诉讼法第二百八十四条规定的强制医疗条件的, 应当作出对被申请人强制医疗的决定；</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;(二) 被申请人属于依法不负刑事责任的精神病人, 但不符合强制医疗条件的, 应当作出驳回强制医疗申请的决定；被申请人已经造成危害结果的, 应当同时责令其家属或者监护人严加看管和医疗；</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;(三) 被申请人具有完全或者部分刑事责任能力, 依法应当追究刑事责任的, 应当作出驳回强制医疗申请的决定, 并退回人民检察院依法处理.</p>
+<p style=""font-weight: 400;""><strong>高法解释第五百三十二条</strong></p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;第一审人民法院在审理案件过程中发现被告人可能符合强制医疗条件的, 应当依照法定程序对被告人进行法医精神病鉴定. 经鉴定, 被告人属于依法不负刑事责任的精神病人的, 应当适用强制医疗程序, 对案件进行审理.</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;开庭审理前款规定的案件, 应当先由合议庭组成人员宣读对被告人的法医精神病鉴定意见, 说明被告人可能符合强制医疗的条件, 后依次由公诉人和被告人的法定代理人, 诉讼代理人发表意见. 经审判长许可, 公诉人和被告人的法定代理人, 诉讼代理人可以进行辩论.</p>
+<p style=""font-weight: 400;""><strong>高法解释第五百三十三条</strong></p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;对前条规定的案件, 人民法院审理后, 应当按照下列情形分别处理：</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;(一) 被告人符合强制医疗条件的, 应当判决宣告被告人不负刑事责任, 同时作出对被告人强制医疗的决定；</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;(二) 被告人属于依法不负刑事责任的精神病人, 但不符合强制医疗条件的, 应当判决宣告被告人无罪或者不负刑事责任；被告人已经造成危害结果的, 应当同时责令其家属或者监护人严加看管和医疗；</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;(三) 被告人具有完全或者部分刑事责任能力, 依法应当追究刑事责任的, 应当依照普通程序继续审理.</p>
+<p style=""font-weight: 400;""><strong>高法解释第五百三十四条</strong></p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;人民法院在审理第二审刑事案件过程中, 发现被告人可能符合强制医疗条件的, 可以依照强制医疗程序对案件作出处理, 也可以裁定发回原审人民法院重新审判.</p>
+<p style=""font-weight: 400;""><strong>高法解释第五百三十五条</strong></p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;人民法院决定强制医疗的, 应当在作出决定后五日内, 向公安机关送达强制医疗决定书和强制医疗执行通知书, 由公安机关将被决定强制医疗的人送交强制医疗.</p>
+<p style=""font-weight: 400;""><strong>高法解释第五百三十六条</strong></p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;被决定强制医疗的人, 被害人及其法定代理人, 近亲属对强制医疗决定不服的, 可以自收到决定书之日起五日内向上一级人民法院申请复议. 复议期间不停止执行强制医疗的决定.</p>
+<p style=""font-weight: 400;""><strong>高法解释第五百三十七条</strong></p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;对不服强制医疗决定的复议申请, 上一级人民法院应当组成合议庭审理, 并在一个月内, 按照下列情形分别作出复议决定：</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp; &nbsp;(一) 被决定强制医疗的人符合强制医疗条件的, 应当驳回复议申请, 维持原决定；</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp; &nbsp;(二) 被决定强制医疗的人不符合强制医疗条件的, 应当撤销原决定；</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp; &nbsp;(三) 原审违反法定诉讼程序, 可能影响公正审判的, 应当撤销原决定, 发回原审人民法院重新审判.</p>
+<p style=""font-weight: 400;""><strong>高法解释第五百三十八条</strong></p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;对本解释第五百三十三条第一项规定的判决, 决定, 人民检察院提出抗诉, 同时被决定强制医疗的人, 被害人及其法定代理人, 近亲属申请复议的, 上一级人民法院应当依照第二审程序一并处理.</p>
+<p style=""font-weight: 400;""><strong>高法解释第五百三十九条　</strong></p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;审理强制医疗案件, 本章没有规定的, 参照适用公诉案件第一审普通程序和第二审程序的有关规定.</p>
+<p style=""font-weight: 400;""><strong>高法解释第五百四十条　</strong></p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;被强制医疗的人及其近亲属申请解除强制医疗的, 应当向决定强制医疗的人民法院提出.</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;被强制医疗的人及其近亲属提出的解除强制医疗申请被人民法院驳回, 六个月后再次提出申请的, 人民法院应当受理.</p>
+<p style=""font-weight: 400;""><strong>高法解释第五百四十一条</strong></p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;强制医疗机构提出解除强制医疗意见, 或者被强制医疗的人及其近亲属申请解除强制医疗的, 人民法院应当审查是否附有对被强制医疗的人的诊断评估报告.</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;强制医疗机构提出解除强制医疗意见, 未附诊断评估报告的, 人民法院应当要求其提供.</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;被强制医疗的人及其近亲属向人民法院申请解除强制医疗, 强制医疗机构未提供诊断评估报告的, 申请人可以申请人民法院调取. 必要时, 人民法院可以委托鉴定机构对被强制医疗的人进行鉴定.</p>
+<p style=""font-weight: 400;""><strong>高法解释第五百四十二条　</strong></p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;强制医疗机构提出解除强制医疗意见, 或者被强制医疗的人及其近亲属申请解除强制医疗的, 人民法院应当组成合议庭进行审查, 并在一个月内, 按照下列情形分别处理：</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp; &nbsp;(一) 被强制医疗的人已不具有人身危险性, 不需要继续强制医疗的, 应当作出解除强制医疗的决定, 并可责令被强制医疗的人的家属严加看管和医疗；</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp; &nbsp;(二) 被强制医疗的人仍具有人身危险性, 需要继续强制医疗的, 应当作出继续强制医疗的决定.</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;人民法院应当在作出决定后五日内, 将决定书送达强制医疗机构, 申请解除强制医疗的人, 被决定强制医疗的人和人民检察院. 决定解除强制医疗的, 应当通知强制医疗机构在收到决定书的当日解除强制医疗.</p>
+<p style=""font-weight: 400;""><strong>高法解释第五百四十三条　</strong></p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;人民检察院认为强制医疗决定或者解除强制医疗决定不当, 在收到决定书后二十日内提出书面纠正意见的, 人民法院应当另行组成合议庭审理, 并在一个月内作出决定.</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp; &nbsp;(一) 符合刑事诉讼法第二百八十四条规定的强制医疗条件的, 应当作出对被申请人强制医疗的决定；</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp; &nbsp;(二) 被申请人属于依法不负刑事责任的精神病人, 但不符合强制医疗条件的, 应当作出驳回强制医疗申请的决定；被申请人已经造成危害结果的, 应当同时责令其家属或者监护人严加看管和医疗；</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp; &nbsp;(三) 被申请人具有完全或者部分刑事责任能力, 依法应当追究刑事责任的, 应当作出驳回强制医疗申请的决定, 并退回人民检察院依法处理.</p>
+<p style=""font-weight: 400;""><strong>公安机关办理刑事案件程序规定第三百三十一条</strong></p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;公安机关发现实施暴力行为, 危害公共安全或者严重危害公民人身安全的犯罪嫌疑人, 可能属于依法不负刑事责任的精神病人的, 应当对其进行精神病鉴定.</p>
+<p style=""font-weight: 400;""><strong>公安机关办理刑事案件程序规定第三百三十二条</strong></p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;对经法定程序鉴定依法不负刑事责任的精神病人, 有继续危害社会可能, 符合强制医疗条件的, 公安机关应当在七日以内写出强制医疗意见书, 经县级以上公安机关负责人批准, 连同相关证据材料和鉴定意见一并移送同级人民检察院.</p>
+<p style=""font-weight: 400;""><strong>公安机关办理刑事案件程序规定第三百三十三条</strong></p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;对实施暴力行为的精神病人, 在人民法院决定强制医疗前, 经县级以上公安机关负责人批准, 公安机关可以采取临时的保护性约束措施. 必要时, 可以将其送精神病医院接受治疗.</p>
+<p style=""font-weight: 400;""><strong>公安机关办理刑事案件程序规定第三百三十四条</strong></p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;采取临时的保护性约束措施时, 应当对精神病人严加看管, 并注意约束的方式, 方法和力度, 以避免和防止危害他人和精神病人的自身安全为限度.</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;根据规定, 公安机关一旦发现符合条件的精神病人, 应当立即提出强制医疗意见书, 由检察院审查公安机关提出的强制医疗意见书并防止公安机关遗漏, 由法院进行裁决, 这与刑诉法中内容相同.</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;但是要注意的是, 刑法与刑诉法适用于因精神疾病无法负刑事责任的病人, 如果患者没有造成危害, 就不适用于这些法律. 当然, 有些轻微症状患者也可能会并发其他症状, 例如一些医生会诊断由网瘾引发郁, 焦虑, 精神分裂等精神障碍, 从而危及他人, 这种病人才适用刑法和刑诉法.</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;现在, 在这里有必要向大家普及一些新的概念: 从旧兼从轻原则.</p>
+<p style=""font-weight: 400;""><strong>从旧兼从轻原则</strong></p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;从旧兼从轻原则, 用最简单的话理解就是： “有利于被告人” 的准则.</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;当遇到一个人的犯罪是在新刑法颁布以前, 此时要考虑的是先适用旧刑法, 即行为时的法律规定.</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;如果是适用新的刑法更有利于被告人的话, 如不认为是犯罪, 或者是新刑法处罚较轻的话, 则应该对被告人使用新刑法.</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;如果是适用旧法更有利于被告人的话, 如旧法不认为是犯罪或者是旧法规定的刑罚更轻时则对被告人适用旧法.</p>
+
+
+[caption id=""attachment_5195"" align=""aligncenter"" width=""474""]<a href=""https://www.iaders.com/lywjzx/friends/5194/attachment/th-3/#main"" rel=""attachment wp-att-5195""><img class=""wp-image-5195 size-full"" src=""https://www.iaders.com/wp-content/uploads/2019/01/th.jpg"" alt=""从旧兼从轻原则"" width=""474"" height=""355""></a> 从旧兼从轻原则[/caption]
+<p style=""font-weight: 400;"">?&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;法律界一般认为, 从旧原则只适用于刑事实体法, 刑事程序法是应当从新的. 也就是说, 在刑事案件审理程序上, 新法具有溯及力, 即使新法较重也是如此.</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;在上面讲到的内容中, 刑法是实体法, 刑诉法为程序法. 刑法第十八条出现于1997年,刑诉法相关条目出现于2012年后. 因此, 对于在2012年前有伤害行为的精神病患是否能够适用新刑诉法进行强制医疗, 或者对于2012年前私自进行强制医疗且只有2012年前证据的医生如何处罚, 仍然存在争议.</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;说完了刑法和刑诉法, 接下来再说一些适用于发生伤害行为但不一定达到犯罪标准的精神病患.</p>
+
+<h1>三. &nbsp;适用不予治安管理处罚的精神病人</h1>
+<p style=""font-weight: 400;""><strong>人民警察法第十四条</strong></p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;公安机关的人民警察对严重危害公共安全或者他人人身安全的精神病人, 可以采取保护性约束措施. 需要送往指定的单位, 场所加以监护的, 应当报请县级以上人民政府公安机关批准, 并及时通知其监护人.</p>
+<p style=""font-weight: 400;""><strong>治安管理处罚法第十三条</strong></p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;精神病人在不能辨认或者不能控制自己行为的时候违反治安管理的, 不予处罚, 但是应当责令其监护人严加看管和治疗. 间歇性的精神病人在精神正常的时候违反治安管理的, 应当给予处罚.</p>
+<p style=""font-weight: 400;""><strong>行政处罚法第二十六条&nbsp;</strong></p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;精神病人在不能辨认或者不能控制自己行为时有违法行为的, 不予行政处罚, 但应当责令其监护人严加看管和治疗. 间歇性精神病人在精神正常时有违法行为的, 应当给予行政处罚.</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;人民警察法是实体法, 第十四条在1995年就已存在, 因此不用考虑从旧兼从轻原则问题; 治安管理处罚法是程序法与实体法于一身的法律, 第十三条在2005年也以存在, 因此不用考虑从旧兼从轻原则问题; 行政处罚法属于程序法, 第二十六条在1996年就已存在, 因此不用考虑从旧兼从轻原则问题.</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;首先讲人民警察法. 理所当然的, 突然发生危害行为的精神病患需要公安机关进行控制. 这也呼应了公安机关办理刑事案件程序规定的内容.</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;但是有观点认为该条法律与刑事诉讼法有所冲突, 由于 “刑事诉讼法” 是 “人民警察法” 的上位法, 二者间发生冲突时, 公安机关应优先适用强制医疗程序.</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;治安管理处罚法第十三条内容为行政强制医疗. 行政强制医疗适用的主体条件为经依法鉴定为不予治安管理处罚的精神病人. 行为条件为危害他人人身财产安全或者公共安全秩序但没有达到犯罪标准的肇事肇祸的行为, 即其行为必须触犯了 “治安管理处罚法” 的相关规定, 满足治安管理处罚的行为构成. 危害性条件为有人身危害性即再次危害社会的可能性.</p>
+<p style=""font-weight: 400;"">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 行政处罚法同理.</p>
+<p style=""font-weight: 400;"">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 可以看到, 以上法律均未赋予医生和监护人自行决定强制医疗的权力.</p>
+<p style=""font-weight: 400;"">最后是针对普通病患的, 精神卫生法与执业医师法.</p>
+
+<h1>四. &nbsp;适用普通病患</h1>
+<p style=""font-weight: 400;""><strong>精神卫生法第三十条</strong></p>
+<p style=""font-weight: 400;"">精神障碍的住院治疗实行自愿原则.</p>
+<p style=""font-weight: 400;"">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 诊断结论, 病情评估表明, 就诊者为严重精神障碍患者并有下列情形之一的, 应当对其实施住院治疗：</p>
+<p style=""font-weight: 400;"">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （一）已经发生伤害自身的行为, 或者有伤害自身的危险的；</p>
+<p style=""font-weight: 400;"">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （二）已经发生危害他人安全的行为, 或者有危害他人安全的危险的.</p>
+<p style=""font-weight: 400;""><strong>精神卫生法第三十一条</strong></p>
+<p style=""font-weight: 400;"">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 精神障碍患者有本法第三十条第二款第一项情形的, 经其监护人同意, 医疗机构应当对患者实施住院治疗；监护人不同意的, 医疗机构不得对患者实施住院治疗. 监护人应当对在家居住的患者做好看护管理.</p>
+<p style=""font-weight: 400;""><strong>精神卫生法第三十二条</strong></p>
+<p style=""font-weight: 400;"">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 精神障碍患者有本法第三十条第二款第二项情形, 患者或者其监护人对需要住院治疗的诊断结论有异议, 不同意对患者实施住院治疗的, 可以要求再次诊断和鉴定.</p>
+<p style=""font-weight: 400;"">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 依照前款规定要求再次诊断的, 应当自收到诊断结论之日起三日内向原医疗机构或者其他具有合法资质的医疗机构提出. 承担再次诊断的医疗机构应当在接到再次诊断要求后指派二名初次诊断医师以外的精神科执业医师进行再次诊断, 并及时出具再次诊断结论. 承担再次诊断的执业医师应当到收治患者的医疗机构面见, 询问患者, 该医疗机构应当予以配合.</p>
+<p style=""font-weight: 400;"">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 对再次诊断结论有异议的, 可以自主委托依法取得执业资质的鉴定机构进行精神障碍医学鉴定；医疗机构应当公示经公告的鉴定机构名单和联系方式. 接受委托的鉴定机构应当指定本机构具有该鉴定事项执业资格的二名以上鉴定人共同进行鉴定, 并及时出具鉴定报告.</p>
+<p style=""font-weight: 400;""><strong>精神卫生法第三十五条</strong></p>
+<p style=""font-weight: 400;"">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 再次诊断结论或者鉴定报告表明, 不能确定就诊者为严重精神障碍患者, 或者患者不需要住院治疗的, 医疗机构不得对其实施住院治疗.</p>
+<p style=""font-weight: 400;"">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 再次诊断结论或者鉴定报告表明, 精神障碍患者有本法第三十条第二款第二项情形的, 其监护人应当同意对患者实施住院治疗. 监护人阻碍实施住院治疗或者患者擅自脱离住院治疗的, 可以由公安机关协助医疗机构采取措施对患者实施住院治疗.</p>
+<p style=""font-weight: 400;"">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 在相关机构出具再次诊断结论, 鉴定报告前, 收治精神障碍患者的医疗机构应当按照诊疗规范的要求对患者实施住院治疗.</p>
+<p style=""font-weight: 400;""><strong>精神卫生法第三十六条</strong></p>
+<p style=""font-weight: 400;"">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 诊断结论表明需要住院治疗的精神障碍患者, 本人没有能力办理住院手续的, 由其监护人办理住院手续;患者属于查找不到监护人的流浪乞讨人员的, 由送诊的有关部门办理住院手续.</p>
+<p style=""font-weight: 400;"">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 精神障碍患者有本法第三十条第二款第二项情形, 其监护人不办理住院手续的, 由患者所在单位, 村民委员会或者居民委员会办理住院手续, 并由医疗机构在患者病历中予以记录.</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;注: &nbsp;“款” &nbsp;代表一个自然段, 而 &nbsp;“项” &nbsp;代表一个序号. 卫生法规是实体法与程序法交织在一起的.</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;根据 “精神卫生法” 中规定, 危害他人安全或者有危害他人安全危险的但是没有达到违反 “治安管理处罚法” 标准的, 监护人不进行送治的, 由患者所在单位, 村委会, 居委会履行相关送治手续. 如果进行阻挠或者患者不配合, 则由公安机关协助医疗机构采取措施对患者实施住院治疗.</p>
+<p style=""font-weight: 400;"">&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;“精神卫生法” 规定的强制送院治疗都是比较轻微的危害他人安全或者有危害他人安全危险的行为, 属于行政强制医疗, 为的是把危险扼杀在萌芽之中, 也为的是精神障碍患者得到及时的治疗, 救助治疗的特点比较明显.</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;但是, 由于缺乏具体的实施条例和对病情的详细判断标准, 公安机关可以选择自行强制医疗或者依据刑讼法提出强制医疗意见书, 其中的弹性很大.&nbsp;</p>
+
+<h1>五. &nbsp;关于法无禁止即可为</h1>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;看完了这些法律, 你会发现法律根本没有给予监护人和医生强制医疗的权利. 无论对于何种病人, 哪怕一个沉迷网络者任性使气打爹骂娘偷摸抢骗不读书不工作不上进, 或者做了其他温室里生活的不懂社会的圣母所想象不出的恶劣行为, 又或者“并发了精神分裂等精神障碍”, 又或者经过治疗后 &nbsp;“可能过激了点但至少有效” &nbsp;甚至 &nbsp;“走向人生巅峰” , 家长监护人或医生也无权决定一个人是否需要强制医疗, 更不能将其强行抓捕, 送达, 拘束. 哪怕这个人是未成年人也是如此.</p>
+<p style=""font-weight: 400;"">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 但是一些人会说, “法无禁止即可为”, 法律没有禁止监护人逼迫患者就医, 也没禁止医生擅自采取强制措施, 因此谁也不能说作为监护人医生没有这个权利.</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;这里就需要引出另一个概念了: 法无禁止即可为.</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;<strong>&nbsp;法无禁止即可为</strong></p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;有些人提出了 ""法无禁止即可为"" 这句话, 实际上他们忽略了这句话的下半部分 ""法无授权即禁止"".</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;法无禁止即可为这句话出自法谚 “法无授权不可为,法不禁止即自由” . 所谓的法无授权不可为, 指国家公权力的行使必须经过法律授权. 法不禁止即自由, 指公民的行为无法律禁止皆不违法.</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;根据上半句, 公民有进行法律未禁止行为的权利, 但是要注意, “患者” 也有保障自己的人生安全, 人权和不被当作精神病患误诊并强制医疗的基本权利. 一个人行使自己权利时, 绝不能侵害到他人权利, 更不允许以行使自我权利之名而侵害他人权利. 上文法律中有关监护人的, 都仅限于 “责令其监护人严加看管和治疗”, 与强制医疗完全不同. 私自对患者进行强制医疗, 是严重违反基本人权与公序良俗的, 也是违法的. 因为这种行为, 可以算是非法拘禁了.</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;更何况还有下半句,&nbsp;李克强总理指出：对市场主体而言, “法无禁止即可为”, 对政府而言, 则是 “法无授权不可为”.&nbsp;因此, 法无禁止即可为是对一个公民或者企业的私权利而言的. 而一个公立国营医院和它的下属科室, 适应的应当是 ""法无授权即禁止"".</p>
+
+
+[caption id=""attachment_5196"" align=""aligncenter"" width=""500""]<a href=""https://www.iaders.com/lywjzx/friends/5194/attachment/%e6%9d%8e%e5%85%8b%e5%bc%ba2/#main"" rel=""attachment wp-att-5196""><img class=""size-full wp-image-5196"" src=""https://www.iaders.com/wp-content/uploads/2019/01/李克强2.jpg"" alt=""李克强在国务院第二次廉政工作会议上讲话"" width=""500"" height=""329""></a> 李克强在国务院第二次廉政工作会议上讲话[/caption]
+
+[caption id=""attachment_5197"" align=""aligncenter"" width=""800""]<a href=""https://www.iaders.com/lywjzx/friends/5194/attachment/%e6%9d%8e%e5%85%8b%e5%bc%ba1/#main"" rel=""attachment wp-att-5197""><img class=""size-full wp-image-5197"" src=""https://www.iaders.com/wp-content/uploads/2019/01/李克强1.jpg"" alt=""李克强在国务院第二次廉政工作会议上讲话"" width=""800"" height=""551""></a> 李克强在国务院第二次廉政工作会议上讲话[/caption]
+
+李克强在国务院第二次廉政工作会议上讲话李克强在国务院第二次廉政工作会议?上讲话
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;继续以强制医疗为例, 即使是作为监护人决定对患者进行强制医疗, 并认为 ""法无禁止即可为"", 也是不对的. 因为自行决定对不需要强制医疗的患者进行强制医疗, 本身是严重侵害了患者的权利的. 就像店铺商贩不能自行监禁失手打坏商品的顾客一样.</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;那么什么是非法拘禁罪呢?</p>
+
+<h1>六. &nbsp;关于非法拘禁罪与绑架罪</h1>
+<p style=""font-weight: 400;""><strong>宪法第三十七条</strong></p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;“中华人民共和国公民的人身自由不受侵犯. 任何公民, 非经人民检察院批准或者决定或者人民法院决定, 并由公安机关执行, 不受逮捕, 禁止非法拘禁和以其他方法非法剥夺或者限制公民的人身自由. “ 因此, 非法拘禁是一种严重剥夺公民身体自由的行为.</p>
+<p style=""font-weight: 400;""><strong>刑法第二百三十八条</strong></p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;非法拘禁罪是指以拘押, 禁闭或者其他强制方法, 非法剥夺他人人身自由的犯罪行为. &nbsp;非法拘禁罪侵犯的客体是他人的身体自由权.</p>
+<p style=""font-weight: 400;""><strong>刑法第二百三十九条</strong></p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;以勒索财物为目的绑架他人的. 或者绑架他人作为人质的, 处十年以上有期徒刑或者无期徒刑, 并处罚金或者没收财产. 情节较轻的, 处五年以上十年以下有期徒刑, 并处罚金.</p>
+
+
+[caption id=""attachment_5198"" align=""aligncenter"" width=""720""]<a href=""https://www.iaders.com/lywjzx/friends/5194/attachment/20181031-3/#main"" rel=""attachment wp-att-5198""><img class=""wp-image-5198 size-full"" src=""https://www.iaders.com/wp-content/uploads/2019/01/20181031.jpg"" alt=""某医院医生对 &quot;患者&quot; 进行强制医疗"" width=""720"" height=""471""></a> 某医院医生对 ""患者"" 进行强制医疗[/caption]
+
+[caption id=""attachment_5199"" align=""aligncenter"" width=""720""]<a href=""https://www.iaders.com/lywjzx/friends/5194/attachment/20181031-2-2/#main"" rel=""attachment wp-att-5199""><img class=""wp-image-5199 size-full"" src=""https://www.iaders.com/wp-content/uploads/2019/01/20181031-2.jpg"" alt=""某医院医生对 &quot;患者&quot; 进行强制医疗"" width=""720"" height=""466""></a> 某医院医生对 ""患者"" 进行强制医疗[/caption]
+
+[caption id=""attachment_5200"" align=""aligncenter"" width=""720""]<a href=""https://www.iaders.com/lywjzx/friends/5194/attachment/20181034-2/#main"" rel=""attachment wp-att-5200""><img class=""wp-image-5200 size-full"" src=""https://www.iaders.com/wp-content/uploads/2019/01/20181034.jpg"" alt=""某医院医生对 &quot;患者&quot; 进行束缚"" width=""720"" height=""320""></a> 某医院医生对 ""患者"" 进行束缚[/caption]
+
+[caption id=""attachment_5201"" align=""aligncenter"" width=""720""]<a href=""https://www.iaders.com/lywjzx/friends/5194/attachment/%e5%88%ab%e5%8a%a8%e9%98%9f1-2/#main"" rel=""attachment wp-att-5201""><img class=""wp-image-5201 size-large"" src=""https://www.iaders.com/wp-content/uploads/2019/01/别动队1-1024x769.png"" alt=""某医院医生带人外出抓捕 &quot;患者&quot;"" width=""720"" height=""541""></a> 某医院医生带人外出抓捕 ""患者""[/caption]
+
+[caption id=""attachment_5202"" align=""aligncenter"" width=""720""]<a href=""https://www.iaders.com/lywjzx/friends/5194/attachment/%e5%88%ab%e5%8a%a8%e9%98%9f2-2/#main"" rel=""attachment wp-att-5202""><img class=""wp-image-5202 size-large"" src=""https://www.iaders.com/wp-content/uploads/2019/01/别动队2-1024x770.png"" alt=""某医院医生带人外出抓捕 &quot;患者&quot;"" width=""720"" height=""541""></a> 某医院医生带人外出抓捕 ""患者""[/caption]
+
+&nbsp;
+
+图: 某医院医生对 ""患者"" 进行强制医疗图: 某医院医生对 ""患者"" 进行强制医疗图: 某医院医生对 ""患者"" 进行束缚图: 某医院医生带人外出抓捕 ""患者""图: 某医院医生带人外出抓捕 ""患者""
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;绕了一圈又绕回了宪法与刑法, 一切尽在不言中.</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;注: 非法拘禁罪与绑架罪的区分</p>
+
+<ol>
+ 	<li style=""font-weight: 400;"">在主观上, 表现为行为人主观犯意的目的和故意的内容不同. 绑架罪的主观动机是勒索钱财或其他非法利益, 绑架扣押人质只是实现主观目的手段, 而非法拘禁罪主观意图就是为了非法限制他人人身自由;</li>
+ 	<li style=""font-weight: 400;"">在客观方面, 表现为对被害人人身自由限制性程度不同, 使用方式方法(手段)也有差异. 在绑架案中, 行为人一般都采取超强度的暴力等手段, 致使被害人不能反抗, 无法反抗和不敢反抗, 一般在被害人掳离住所置于偏僻荒野之处, 给被害人的心理造成极大恐慌. 而非法拘禁罪一般表现为行为人低强度限制人身自由.</li>
+ 	<li style=""font-weight: 400;"">在案件发生的因果关系上, 绑架罪表现为行为人和被害人之间一般没有恩怨和其他往来, 行为人的目的就是通过绑架的实施达到勒索钱财的目的, 或通过扣押人质获取其他非法利益, 而非法拘禁罪较多的表现为行为人与被害人之间因纠纷和其他利害关系而产生, 在案发的起因上, 被害人往往有过错.</li>
+</ol>
+<h1>七. &nbsp;关于一些精神病患者就医时的权利</h1>
+<p style=""font-weight: 400;""><strong>刑法第三百零七条</strong></p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;[妨害作证罪] 以暴力, 威胁, 贿买等方法阻止证人作证或者指使他人作伪证的, 处三年以下有期徒刑或者拘役; 情节严重的, 处三年以上七年以下有期徒刑.</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;[帮助毁灭, 伪造证据罪] 帮助当事人毁灭, 伪造证据, 情节严重的, 处三年以下有期徒刑或者拘役.</p>
+<p style=""font-weight: 400;""><strong>行政诉讼法第五十九条</strong></p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;诉讼参与人或者其他人有下列行为之一的, 人民法院可以根据情节轻重, 予以训诫, 责令具结悔过或者处一万元以下的罚款, 十五日以下的拘留; 构成犯罪的, 依法追究刑事责任:</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;(二) 伪造, 隐藏, 毁灭证据或者提供虚假证明材料, 妨碍人民法院审理案件的;</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;(三) 指使, 贿买, 胁迫他人作伪证或者威胁, 阻止证人作证的;</p>
+<p style=""font-weight: 400;""><strong>民事诉讼法第一百一十一条</strong></p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;诉讼参与人或者其他人有下列行为之一的, 人民法院可以根据情节轻重予以罚款, 拘留; 构成犯罪的, 依法追究刑事责任:</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;(一) 伪造, 毁灭重要证据, 妨碍人民法院审理案件的;</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;(二) 以暴力, 威胁, 贿买方法阻止证人作证或者指使, 贿买, 胁迫他人作伪证的;</p>
+<p style=""font-weight: 400;""><strong>精神卫生法第三十四条</strong></p>
+<p style=""font-weight: 400;"">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 鉴定机构, 鉴定人应当遵守有关法律, 法规, 规章的规定, 尊重科学, 恪守职业道德, 按照精神障碍鉴定的实施程序, 技术方法和操作规范, 依法独立进行鉴定, 出具客观, 公正的鉴定报告.</p>
+<p style=""font-weight: 400;"">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 鉴定人应当对鉴定过程进行实时记录并签名. 记录的内容应当真实, 客观, 准确, 完整, 记录的文本或者声像载体应当妥善保存.</p>
+<p style=""font-weight: 400;""><strong>精神卫生法第四十六条</strong></p>
+<p style=""font-weight: 400;"">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 医疗机构及其医务人员应当尊重住院精神障碍患者的通讯和会见探访者等权利. 除在急性发病期或者为了避免妨碍治疗可以暂时性限制外, 不得限制患者的通讯和会见探访者等权利.</p>
+<p style=""font-weight: 400;""><strong>精神卫生法第四十七条</strong></p>
+<p style=""font-weight: 400;"">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 医疗机构及其医务人员应当在病历资料中如实记录精神障碍患者的病情, 治疗措施, 用药情况, 实施约束, 隔离措施等内容, 并如实告知患者或者其监护人. 患者及其监护人可以查阅, 复制病历资料；但是, 患者查阅, 复制病历资料可能对其治疗产生不利影响的除外. 病历资料保存期限不得少于三十年. &nbsp;</p>
+<p style=""font-weight: 400;""><strong>执业医师法第二十三条　</strong></p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;医师实施医疗, 预防, 保健措施, 签署有关医学证明文件, 必须亲自诊查, 调查, 并按照规定及时填写医学文书, 不得隐匿, 伪造或者销毁医学文书及有关资料.</p>
+<p style=""font-weight: 400;""><strong>执业医师法第二十七条</strong></p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;医师不得利用职务之便, 索取, 非法收受患者财物或者牟取其他不正当利益.</p>
+<p style=""font-weight: 400;""><strong>执业医师法第三十七条　</strong></p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;医师在执业活动中, 违反本法规定, 有下列行为之一的, 由县级以上人民政府卫生行政部门给予警告或者责令暂停六个月以上一年以下执业活动；情节严重的, 吊销其执业证书；构成犯罪的, 依法追究刑事责任：</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp; &nbsp;(一) 违反卫生行政规章制度或者技术操作规范, 造成严重后果的；</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp; &nbsp;(三) 造成医疗责任事故的；</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp; &nbsp;(五) 隐匿, 伪造或者擅自销毁医学文书及有关资料的；</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp; &nbsp;(六) 使用未经批准使用的药品, 消毒药剂和医疗器械的；</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp; &nbsp;(七) 不按照规定使用麻醉药品, 医疗用毒性药品, 精神药品和放射性药品的；</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp; &nbsp;(八) 未经患者或者其家属同意, 对患者进行实验性临床医疗的；</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp; &nbsp;(九) 泄露患者隐私, 造成严重后果的；</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp; &nbsp;(十) 利用职务之便, 索取, 非法收受患者财物或者牟取其他不正当利益的；</p>
+<p style=""font-weight: 400;"">&nbsp;</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;注: 执业医师法于1999年5月1日起施行. 卫生法规是实体法与程序法交织在一起的.</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;我也不知道为什么, 就是突然很想在科普里插上这么一段.</p>
+&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;毕竟有的医生别的什么都不会,&nbsp;销毁证据倒是非常麻利.&nbsp;
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;毕竟有些医生, 为了宣传自己的疗法, 早把患者的尊严和个人隐私丢到九霄云外去了.</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;毕竟有的医生, 甚至能够根据 “治疗效果” 对患者监护人罚款</p>
+
+<h1>八. &nbsp;附录</h1>
+<p style=""font-weight: 400;""><strong>民事行为能力</strong></p>
+<p style=""font-weight: 400;"">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 我国公民具有完全民事行为能力应当满足下列两个条件：</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp; &nbsp;(1) 18周岁以上. 我国 “民法总则” 规定, 18周岁是我国自然人成年的界限. 对于16周岁以上而不满18周岁, 但是以自己的劳动收入为主要生活来源的自然人, 法律将之视为完全民事行为能力人. 最高人民法院 “意见” 第2条还对 “以自己的劳动收入作为主要生活来源” 的认定作出了具体的规定： “十六周岁不满十八周岁的公民, 能够以自己的劳动取得收入, 并能维持当地群众一般生活水平的, 可以认定为以自己的劳动收入为主要生活来源的完全民事行为能力人. “</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp; &nbsp;(2) 精神状况健康正常. 公民能够正确理解法律规范和社会生活共同规则, 理智地实施民事行为. 患有精神病而不能理智地从事行为的人, 即使18周岁以上, 也不属于完全民事行为能力人.</p>
+<p style=""font-weight: 400;"">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 限制民事行为能力人包括下列两种：</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp; &nbsp;(一) 8周岁以上的未成年人.&nbsp; “民法总则” 第十九条规定： “八周岁以上的未成年人为限制民事行为能力人, 实施民事法律行为由其法定代理人代理或者经其法定代理人同意, 追认, 但是可以独立实施纯获利益的民事法律行为或者与其年龄, 智力相适应的民事法律行为. “</p>
+<p style=""font-weight: 400;"">&nbsp; &nbsp; &nbsp; &nbsp;(二) 不能完全辨认自己行为的精神病人.&nbsp; “民法通则” 第十三条第二款规定：” 不能完全辨认自己行为的精神病人是限制民事行为能力人, 可以进行与他的精神健康状况相适应的民事活动；其他民事活动由他的法定代理人代理, 或者征得他的法定代理人的同意.</p>
+<p style=""font-weight: 400;"">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 限制民事行为能力人包括两种情况：</p>
+
+<ol>
+ 	<li style=""font-weight: 400;"">不满八周岁的未成年人</li>
+</ol>
+<p style=""font-weight: 400;"">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 民法总则第二十条规定：不满八周岁的未成年人为无民事行为能力人, 由其法定代理人代理实施民事法律行为.</p>
+
+<ol start=""2"">
+ 	<li style=""font-weight: 400;"">不能辨认自己行为的成年人</li>
+</ol>
+<p style=""font-weight: 400;"">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 民法总则第二十一条规定：不能辨认自己行为的成年人为无民事行为能力人, 由其法定代理人代理实施民事法律行为.</p>
+<p style=""font-weight: 400;"">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 八周岁以上的未成年人不能辨认自己行为的, 适用前款规定.</p>
+<p style=""font-weight: 400;""><strong>监护人</strong></p>
+<p style=""font-weight: 400;"">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 监护人是指对无行为能力或限制行为能力的人的人身, 财产和其它一切合法权益负有监督和保护责任的人. 一般来说, 未成年人, 精神病患者及其他有严重精神障碍的人, 都应设置监护人.</p>"
