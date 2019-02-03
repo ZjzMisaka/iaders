@@ -1,1 +1,0 @@
-You have been promoted to {{promoted_to}} in the group: "{{group.name}}".<br/><br/>To visit the group, go to: {{{group.url}}}<br/>You have been promoted to <b>{{promoted_to}}</b> in the group <a href="{{{group.url}}}">{{group.name}}</a>.<br/>首次转载时间: 2017-08-09 08:27:08"
